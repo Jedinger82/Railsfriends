@@ -1,25 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Railsfriends
+# README Friends App
+ Hello my Name is Jonathan Edinger, I am a recent graduate from South University. I work at John Soules as a software programmer building their new MES application. This is my Ruby App that I built for the class.
